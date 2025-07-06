@@ -62,6 +62,31 @@ button:hover {
     background: #bdbdbd;
 }
 
+.operator {
+    background: #ff9500;
+}
+
+.operator:hover {
+    background: #ffaa33;
+}
+
+.all-clear {
+    background-color: #ff3b30;
+}
+
+.all-clear:hover {
+    background-color: #ff5e54;
+}
+
+.equal-sign {
+    background-color: #4cd964;
+    grid-column: span 2;
+}
+
+.equal-sign:hover {
+    background-color: #6ae07e;
+}
+
 /* Example Display Styling */
 .display {
     width: 100%;
