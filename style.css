@@ -80,22 +80,10 @@ button:hover {
 
 .equal-sign {
     background-color: #4cd964;
-    grid-column: span 2;
+    grid-column: span 3;
 }
 
 .equal-sign:hover {
     background-color: #6ae07e;
 }
 
-/* Example Display Styling */
-.display {
-    width: 100%;
-    padding: 1rem;
-    font-size: 2rem;
-    background: #222;
-    color: #fff;
-    border-radius: 6px;
-    margin-bottom: 1rem;
-    text-align: right;
-    letter-spacing: 1px;
-}
